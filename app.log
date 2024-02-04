@@ -1,0 +1,5 @@
+obj:04-Feb-24 34:12:21:119:1000:ERROR:root
+Traceback (most recent call last):
+  File "E:\image_scrapping\app.py", line 116, in <module>
+    raise Accessdenied("access denied")
+Accessdenied: access denied
